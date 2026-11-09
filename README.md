@@ -51,3 +51,7 @@ bash Tests/viewer.sh   # Viewer integration checks
 | `Tests/` | Test programs and the scripts that build and run them |
 
 The tests cover name conflicts, folders reached through symbolic links, preserving linked files, unreadable listings, repeated Enter presses, the last image in a folder, and cropping.
+
+## License
+
+QuickCrop is released under the [MIT License](LICENSE).
