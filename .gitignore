@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Build output
+build/
+/QuickCrop
+*.o
+*.app
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+.swiftpm/
+.build/
+
+# Local verification screenshots
+final-smoke/
+runtime-gate/
